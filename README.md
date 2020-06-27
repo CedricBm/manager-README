@@ -71,3 +71,5 @@ I believe feedback should go both ways. So if there is something you like, somet
 **I am an introvert.** This means that prolonged exposure to humans is exhausting for me. Meetings with three of us are perfect, three to six are ok, and more than six you will find that I am strangely quiet. However, do not confuse my quiet with lack of engagement.
 
 **When I ask you to do something that feels poorly defined** you should ask me to clarify and prioritize it. I might still be brainstorming. These questions can save everyone a lot of time.
+
+**My DISC style is Formatlist - CS.** This means that I rely upon procedure and structure and that I am detail-oriented and seek perfection. Please ask me for my detailed profile if you're interested.
